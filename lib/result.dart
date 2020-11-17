@@ -18,7 +18,6 @@ class Result extends StatelessWidget {
     } else {
       resultText = 'You are so bad!';
     }
-
     return resultText;
   }
 
